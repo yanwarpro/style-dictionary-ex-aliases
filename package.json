@@ -123,7 +123,7 @@
     "commander": "^8.3.0",
     "fs-extra": "^10.0.0",
     "glob": "^7.2.0",
-    "json5": "^2.2.0",
+    "json5": "^2.2.1",
     "jsonc-parser": "^3.0.0",
     "lodash": "^4.17.15",
     "tinycolor2": "^1.4.1"
@@ -135,7 +135,7 @@
     "babel-jest": "^27.4.6",
     "babel-preset-env": "^1.7.0",
     "docsify": "^4.12.2",
-    "docsify-cli": "^4.4.3",
+    "docsify-cli": "^4.4.4",
     "eslint": "^8.7.0",
     "eslint-plugin-jest": "^26.0.0",
     "husky": "^7.0.0",
@@ -147,7 +147,7 @@
     "less": "^4.1.2",
     "lint-staged": "^12.3.1",
     "node-sass": "^7.0.1",
-    "standard-version": "^9.3.2",
+    "standard-version": "^9.5.0",
     "stylus": "^0.56.0",
     "tsd": "^0.19.1",
     "yaml": "^1.10.2"
